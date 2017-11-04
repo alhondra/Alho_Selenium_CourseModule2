@@ -1,0 +1,15 @@
+target/
+src/test/java/com/qalabs/seleniumlocators/CSSExercise1
+src/test/java/com/qalabs/seleniumlocators/CSSExercise2
+src/test/java/com/qalabs/seleniumlocators/CSSExercise3
+src/test/java/com/qalabs/seleniumlocators/HandsOn1.java
+src/test/java/com/qalabs/seleniumlocators/HandsOn2.java
+src/test/java/com/qalabs/seleniumlocators/LocatorsExercise1.java
+src/test/java/com/qalabs/seleniumlocators/LocatorsExercise2.java
+src/test/java/com/qalabs/seleniumlocators/LocatorsExercise3.java
+src/test/java/com/qalabs/seleniumlocators/LocatorsExercise4.java
+src/test/java/com/qalabs/seleniumlocators/LocatorsExercise5.java
+src/test/java/com/qalabs/seleniumlocators/XPATHExercise1
+src/test/java/com/qalabs/seleniumlocators/XPATHExercise2.java
+src/test/java/com/qalabs/seleniumlocators/XPATHExercise3
+src/test/java/com/qalabs/seleniumlocators/XPATHExercise4
