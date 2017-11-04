@@ -1,2 +1,2 @@
-# AlhoSeleniumCourseModule2
-AlhoSeleniumCourseModule2
+# selenium_2017_module_1" 
+# selenium_2017_module_2" 
